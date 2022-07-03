@@ -1,7 +1,3 @@
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
 
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
@@ -12,7 +8,6 @@ local Frame_2 = Instance.new("Frame")
 local Frame_3 = Instance.new("Frame")
 local Frame_4 = Instance.new("Frame")
 
---Properties:
 
 ScreenGui.Parent = game.CoreGui
 
